@@ -1,6 +1,8 @@
 # Mastering Git: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Mastering Git](https://store.raywenderlich.com/products/mastering-git)** from [raywenderlich.com](https://www.raywenderlich.com).
+> **NOTE**: This book has now been deprecated. You can still learn about `git` in the two new git books: **[Git Apprentice](https://www.raywenderlich.com/books/git-apprentice)** and **[Advanced Git](https://www.raywenderlich.com/books/advanced-git)**.
+
+This repo contains all the downloadable materials and projects associated with the **Mastering Git** from [raywenderlich.com](https://www.raywenderlich.com).
 
 Each edition has its own branch, named `editions/[EDITION]`. The default branch for this repo is for the most recent edition.
 
